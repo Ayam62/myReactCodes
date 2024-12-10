@@ -12,7 +12,7 @@ function Navbar() {
             <button>About us</button>
             <button>Campus</button>
             <button>Testimonials</button>
-            <button><span>Contact us</span></button>
+            <button className='btn'>Contact us</button>
         </div>
     </nav>
   )
