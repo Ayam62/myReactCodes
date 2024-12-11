@@ -13,16 +13,32 @@
 }
 .centerInfo  {
    margin-left:20px;
-   width: 80%;
+   width: 70%;
+   text-align: center;
 }
 .centerInfo h1{
     font-size: 60px;
     font-weight: 600;
 }
-
+.explore{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
 .btn{
     margin-top: 10px;
-    margin-left:150px;
     outline: 0;
     border: 0;
+    text-align: center;
+}
+.explore img{
+    padding-left: 5px;
+}
+.explore button{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 500;
 }

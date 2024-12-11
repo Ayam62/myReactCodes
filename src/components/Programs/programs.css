@@ -1,0 +1,25 @@
+.programNav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.programNav p{
+    color:#212ea0;
+    font-weight: 600;
+}
+.programNav h2{
+    font-size: xx-large;
+    font-weight:800 ;
+    margin-bottom: 40px;
+}
+.programNav .navImg{
+    margin-left: 20px;
+    margin-left: 20px;
+}
+.programNav img{
+    margin: 10px;
+    border-radius: 20px;
+}

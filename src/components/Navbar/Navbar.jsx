@@ -5,7 +5,7 @@ import './navbar.css'
 function Navbar() {
   return (
     <nav>
-        <img src={logo} width='150px' alt="" />
+        <img src={logo} width='170px' height="40px" alt="" />
         <div className='button'>
             <button>Home</button>
             <button>Program</button>
