@@ -1,0 +1,45 @@
+.campusContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 70px;
+}
+.imgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.imgContainer img{
+    border-radius: 30px;
+}
+.campusContainer .campusNav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.campusContainer .campusNav p{
+    color:#212ea0 ;
+    font-size:20px ;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.campusContainer h2{
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+.campusContainer button{
+    background-color:#212ea0 ;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: 500;
+    outline: 0;
+    border: 0;
+    margin-top: 20px;
+}

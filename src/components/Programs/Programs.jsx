@@ -10,9 +10,9 @@ const Programs = () => {
             <p>OUR PROGRAM</p>
             <h2>What We Offer</h2>
             <div className="navImg">
-                <img src={program1} width="250px" alt="" />
-                <img src={program2} width="250px" alt="" />
-                <img src={program3} width="250px" alt="" />
+                <img src={program1} width="350px" alt="" />
+                <img src={program2} width="350px" alt="" />
+                <img src={program3} width="350px" alt="" />
             </div>
         </div>
     </div>
