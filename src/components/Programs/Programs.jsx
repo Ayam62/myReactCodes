@@ -5,7 +5,7 @@ import program3 from "../../assets/edusity_assets/program-3.png"
 import "./programs.css"
 const Programs = () => {
   return (
-    <div className='ProgramsContainer'>
+    <div className='ProgramsContainer' id="program">
         <div className="programNav">
             <p>OUR PROGRAM</p>
             <h2>What We Offer</h2>

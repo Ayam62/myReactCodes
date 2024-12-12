@@ -1,0 +1,77 @@
+.contactNav{
+    text-align: center;
+    padding-top:30px;
+}
+.contactNav p{
+    color:#212ea0 ;
+    font-size:20px ;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.contactNav h2{
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+form {
+    max-width: 400px;
+    margin: auto;
+    background-color: #f5f6fe;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    padding-right: 30px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    background-color: #f7f9ff;
+  }
+  
+  input[type="text"]:focus,
+  input[type="tel"]:focus,
+  input[type="email"]:focus,
+  textarea:focus {
+    outline: none;
+    border-color: #a3b4f1;
+    box-shadow: 0 0 5px rgba(163, 180, 241, 0.5);
+  }
+  
+  textarea {
+    resize: none;
+    height: 100px;
+  }
+  .btn {
+    display: inline-block;
+    background-color: #003366;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background-color: #002244;
+  }
+  
+  

@@ -7,7 +7,7 @@ import gallery4 from "../../assets/edusity_assets/gallery-4.png"
 
 const Campus = () => {
   return (
-    <div className='campusContainer'>
+    <div className='campusContainer' id="campus">
         <div className="campusNav">
             <p>Gallery</p>
             <h2>Campus Photo</h2>
